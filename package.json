@@ -10,7 +10,8 @@
     "recharts": "^2.15.1",
     "web-vitals": "^4.2.4"
   },
-  "main": "src/index.js",
+
+  "main": {"src/index.js"},
 
   "scripts": {
     "start": "react-scripts start",
